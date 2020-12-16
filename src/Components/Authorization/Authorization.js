@@ -6,7 +6,7 @@ class Authorization extends React.Component {
         console.log('auth page')
         return(
             <>
-            auth
+            authorization page
             </>
         )
     }
